@@ -1,0 +1,51 @@
+body {
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #545454;
+
+    background-color: #191919;
+}
+
+h1{
+    color: #dddddd;
+    font-size: 18px;
+    font-weight: 600;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: gray;
+}
+
+button{
+    background-color: #252525;
+    color: rgb(138, 138, 138);
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(62, 62, 62);
+}
+
+button:hover{
+    background-color: gray;
+}
+
+img {
+  width: 70px;
+  height: 70px;
+
+  /* Add some rounded corners to the image. */
+  border-radius: 8px;
+}
+
+.notecard{
+    background-color: rgb(32, 32, 32);
+    width: 450px;
+    height: auto;
+    margin: 150px auto 0px auto;
+    padding: 20px;
+    /*box-sizing: border-box;*/
+    border-radius: 8px;
+}
+
